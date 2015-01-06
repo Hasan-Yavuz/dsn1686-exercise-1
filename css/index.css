@@ -16,3 +16,45 @@ html {
 *, *:before, *:after {
 	box-sizing: inherit;
 }
+
+.icon-sn-controller{
+    position: relative;
+    display: block;
+    margin-left: 50%;
+    margin-top: 2em;
+}
+
+.icon-ok{
+    position: relative;
+    display: block;
+    margin-left: 50%;
+    margin-top: 2em;
+}
+
+.icon-plus{
+    position: relative;
+    display: block;
+    margin-left: 50%;
+    margin-top: 2em;
+}
+
+.icon-minus{
+    position: relative;
+    display: block;
+    margin-left: 50%;
+    margin-top: 2em;
+}
+
+.icon-comment{
+    position: relative;
+    display: block;
+    margin-left: 50%;
+    margin-top: 2em;
+}
+
+.icon-trash{
+    position: relative;
+    display: block;
+    margin-left: 50%;
+    margin-top: 2em;
+}
